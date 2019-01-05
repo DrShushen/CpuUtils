@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EvgenySaveliev.Utils
+namespace DrShushen.Utils
 {
     /// <summary>
     /// <para>A static CPU Utilities class that allows getting the number of CPU physical and logical cores available.</para>

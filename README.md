@@ -3,7 +3,7 @@ A small static utility class for getting the available physical and logical CPU 
 
 ## Usage
 ```csharp
-using EvgenySaveliev.Utils;
+using DrShushen.Utils;
 
 ...
 
